@@ -1,0 +1,19 @@
+Mr Taylor's project:
+
+create an application that generates random data as CSV's.
+
+first, last, and middle names:
+ yoruba, igbo, hausa, english;
+
+address:
+ state, lga, city;
+
+sex:
+ male, female;
+
+salary range:
+ from this to this;
+
+#the user just specifies what type of data he wants and the app generates
+ it as comma-separated-values. can even mix the names and locations wazobia or
+ afro-euro-anglo style respectively .
